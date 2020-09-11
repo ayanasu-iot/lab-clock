@@ -26,7 +26,7 @@ sudo cp ./led-demo.service /etc/systemd/system/
 
 ## How to Run
 
-### Start led-demo.service
+Start led-demo.service
 ```
 sudo systemctl start led-demo.service
 ```
